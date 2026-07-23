@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "mongoose": "^8.19.1",
-    "qrcode-terminal": "^0.12.0",
-    "whatsapp-web.js": "^1.34.1"
-  }
-}
